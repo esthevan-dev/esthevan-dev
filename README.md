@@ -21,9 +21,9 @@ Estudante de Ciência da Computação na Universidade Franciscana (UFN), com foc
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **AILLUSTRATE** | Conecta mesas digitalizadoras a modelos visuais de IA para corrigir cálculos manuscritos. Serialização vetorial da lousa reduziu o consumo de tokens em 82% e o tempo de resposta de 5,4s para 1,1s. | TypeScript, React 19, Electron |
-| **Grace IDE** | IDE para aprender programação com IA socrática. Desenvolvida na Incubadora Tecnológica Unicruz. | — |
-| **Esthevan Search** | Home page / dashboard com design liquid glass. | HTML, CSS, JavaScript |
+| **AILLUSTRATE** | Conecta mesas digitalizadoras a modelos visuais de IA para corrigir cálculos manuscritos. Serialização vetorial da lousa reduziu o consumo de tokens em 82% e o tempo de resposta de 5,4s para 1,1s. | TypeScript, React, Electron |
+| **Grace IDE** | IDE para aprender programação com IA socrática. Desenvolvida na Incubadora Tecnológica Universidade de Cruz Alta. | TypeScript, Python, React, Electron|
+| **Esthevan Search** | Home page para navegadores design liquid glass. | TypeScript, React, CSS Tailwind |
 
 ---
 
@@ -39,6 +39,7 @@ Estudante de Ciência da Computação na Universidade Franciscana (UFN), com foc
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
